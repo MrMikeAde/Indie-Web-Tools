@@ -1,10 +1,10 @@
-# Awesome Indie Web Tools 🚀
+# Awesome Indie Web Tools ð
 
 A curated list of tools, platforms, and resources for indie makers, solo developers, and small teams building, launching, and growing web products independently. Perfect for bootstrappers, solopreneurs, and side hustlers.
 
 ---
 
-## 📌 Table of Contents
+## ð Table of Contents
 
 * [No-Code & Low-Code Builders](#no-code--low-code-builders)
 * [Web Hosting & Deployment](#web-hosting--deployment)
@@ -19,84 +19,86 @@ A curated list of tools, platforms, and resources for indie makers, solo develop
 
 ---
 
-## ⚒️ No-Code & Low-Code Builders
+## âï¸ No-Code & Low-Code Builders
 
-* [Webflow](https://webflow.com) – Design-first no-code website builder with CMS.
-* [Framer](https://framer.com) – Build and publish stunning websites visually.
-* [Bubble](https://bubble.io) – Powerful drag-and-drop app builder.
-* [Tilda](https://tilda.cc) – Great for one-pagers and storytelling websites.
+* [Webflow](https://webflow.com) â Design-first no-code website builder with CMS.
+* [Framer](https://framer.com) â Build and publish stunning websites visually.
+* [Bubble](https://bubble.io) â Powerful drag-and-drop app builder.
+* [Tilda](https://tilda.cc) â Great for one-pagers and storytelling websites.
 
-## 🌍 Web Hosting & Deployment
+## ð Web Hosting & Deployment
 
-* [Vercel](https://vercel.com) – Deploy static websites and frontend apps easily.
-* [Netlify](https://netlify.com) – Powerful serverless hosting with CI/CD.
-* [Render](https://render.com) – Full-stack cloud hosting for apps and databases.
-* [Surge](https://surge.sh) – Simple static web publishing via CLI.
+* [Vercel](https://vercel.com) â Deploy static websites and frontend apps easily.
+* [Netlify](https://netlify.com) â Powerful serverless hosting with CI/CD.
+* [Render](https://render.com) â Full-stack cloud hosting for apps and databases.
+* [Surge](https://surge.sh) â Simple static web publishing via CLI.
 
-## 🎨 Design & UI Tools
+## ð¨ Design & UI Tools
 
-* [Figma](https://figma.com) – Industry-standard collaborative design tool.
-* [Tailwind UI](https://tailwindui.com) – Prebuilt Tailwind CSS components.
-* [Shaper](https://shaper.design) – Drag-and-drop landing page builder.
-* [Heroicons](https://heroicons.com) – Beautiful MIT-licensed SVG icons.
+* [Figma](https://figma.com) â Industry-standard collaborative design tool.
+* [Tailwind UI](https://tailwindui.com) â Prebuilt Tailwind CSS components.
+* [Shaper](https://shaper.design) â Drag-and-drop landing page builder.
+* [Heroicons](https://heroicons.com) â Beautiful MIT-licensed SVG icons.
 
-## 📋 Form & Survey Tools
+## ð Form & Survey Tools
 
-* [Tally](https://tally.so) – Free, Notion-style form builder.
-* [Typeform](https://typeform.com) – Beautiful interactive forms.
-* [Formspree](https://formspree.io) – Form backend for static sites.
-* [Paperform](https://paperform.co) – Form meets landing page.
+* [Tally](https://tally.so) â Free, Notion-style form builder.
+* [Typeform](https://typeform.com) â Beautiful interactive forms.
+* [Formspree](https://formspree.io) â Form backend for static sites.
+* [Paperform](https://paperform.co) â Form meets landing page.
 
-## 📊 Analytics & Feedback
+## ð Analytics & Feedback
 
-* [Plausible](https://plausible.io) – Lightweight, privacy-first web analytics.
-* [Umami](https://umami.is) – Self-hosted Google Analytics alternative.
-* [Hotjar](https://hotjar.com) – Heatmaps, session recordings, user feedback.
-* [Fider](https://fider.io) – Collect and prioritize user feedback.
+* [Plausible](https://plausible.io) â Lightweight, privacy-first web analytics.
+* [Umami](https://umami.is) â Self-hosted Google Analytics alternative.
+* [Hotjar](https://hotjar.com) â Heatmaps, session recordings, user feedback.
+* [Fider](https://fider.io) â Collect and prioritize user feedback.
 
-## 📈 Marketing & SEO
+## ð Marketing & SEO
 
-* [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) – Free SEO site audit.
-* [SenSEO](https://screamingfrog.co.uk) – On-page SEO and crawler.
-* [Hypefury](https://hypefury.com) – Twitter growth and scheduling.
-* [Postcards](https://designmodo.com/postcards/) – Email newsletter templates.
+* [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) â Free SEO site audit.
+* [SenSEO](https://screamingfrog.co.uk) â On-page SEO and crawler.
+* [Hypefury](https://hypefury.com) â Twitter growth and scheduling.
+* [Postcards](https://designmodo.com/postcards/) â Email newsletter templates.
 
-## 💸 Payment & Subscriptions
+## ð¸ Payment & Subscriptions
 
-* [Stripe](https://stripe.com) – Industry standard for payments.
-* [Lemon Squeezy](https://lemonsqueezy.com) – Modern payment platform for SaaS.
-* [Gumroad](https://gumroad.com) – Sell digital products easily.
-* [Paddle](https://paddle.com) – Complete payment and compliance platform.
+* [Stripe](https://stripe.com) â Industry standard for payments.
+* [Lemon Squeezy](https://lemonsqueezy.com) â Modern payment platform for SaaS.
+* [Gumroad](https://gumroad.com) â Sell digital products easily.
+* [Paddle](https://paddle.com) â Complete payment and compliance platform.
 
-## 📨 Newsletters & Audience Building
+## ð¨ Newsletters & Audience Building
 
-* [ConvertKit](https://convertkit.com) – Email marketing for creators.
-* [Beehiiv](https://beehiiv.com) – Newsletter platform with growth tools.
-* [Substack](https://substack.com) – Publish and monetize newsletters.
-* [Buttondown](https://buttondown.email) – Lightweight email tool for developers.
+* [ConvertKit](https://convertkit.com) â Email marketing for creators.
+* [Beehiiv](https://beehiiv.com) â Newsletter platform with growth tools.
+* [Substack](https://substack.com) â Publish and monetize newsletters.
+* [Buttondown](https://buttondown.email) â Lightweight email tool for developers.
 
-## 🚀 Launch & Promotion Platforms
+## ð Launch & Promotion Platforms
 
-* [Product Hunt](https://producthunt.com) – Discover and launch new products.
-* [Indie Hackers](https://indiehackers.com) – Learn from other indie makers.
-* [Betalist](https://betalist.com) – Get early users for your startup.
-* [Launchpedia](https://launchpedia.co) – Curated launch playbooks and tools.
+* [Product Hunt](https://producthunt.com) â Discover and launch new products.
+* [Indie Hackers](https://indiehackers.com) â Learn from other indie makers.
+* [Betalist](https://betalist.com) â Get early users for your startup.
+* [Launchpedia](https://launchpedia.co) â Curated launch playbooks and tools.
 
-## 👥 Communities
+## ð¥ Communities
 
-* [Indie Hackers Forum](https://indiehackers.com) – Meet other builders.
-* [WIP](https://wip.co) – Accountability for makers building in public.
-* [Makerlog](https://getmakerlog.com) – Stay consistent by logging progress.
-* [Dev.to](https://dev.to) – Community of software developers and founders.
+* [Indie Hackers Forum](https://indiehackers.com) â Meet other builders.
+* [WIP](https://wip.co) â Accountability for makers building in public.
+* [Makerlog](https://getmakerlog.com) â Stay consistent by logging progress.
+* [Dev.to](https://dev.to) â Community of software developers and founders.
 
 ---
 
-> 💡 **Contribute:** Open a PR to add tools, fix broken links, or improve descriptions.
+> ð¡ **Contribute:** Open a PR to add tools, fix broken links, or improve descriptions.
 
 ---
 
 ## License
 
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) – Public Domain. Use freely.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) â Public Domain. Use freely.
 
 
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
