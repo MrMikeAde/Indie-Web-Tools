@@ -55,7 +55,7 @@ A curated list of tools, platforms, and resources for indie makers, solo develop
 * [Fider](https://fider.io) – Collect and prioritize user feedback.
 
 ## 📈 Marketing & SEO
-
+* [Peddlum](https://peddlum.com) - Digital product marketplace where sellers keep 90% and can promote through creators for free.
 * [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) – Free SEO site audit.
 * [SenSEO](https://screamingfrog.co.uk) – On-page SEO and crawler.
 * [Hypefury](https://hypefury.com) – Twitter growth and scheduling.
