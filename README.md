@@ -24,6 +24,7 @@ A curated list of tools, platforms, and resources for indie makers, solo develop
 * [Webflow](https://webflow.com) – Design-first no-code website builder with CMS.
 * [Framer](https://framer.com) – Build and publish stunning websites visually.
 * [Bubble](https://bubble.io) – Powerful drag-and-drop app builder.
+* [LinkyPO](https://linkypo.com) – Free link-in-bio and mini-site builder with calendar booking, lead forms and SEO coach.
 * [Tilda](https://tilda.cc) – Great for one-pagers and storytelling websites.
 
 ## 🌍 Web Hosting & Deployment
