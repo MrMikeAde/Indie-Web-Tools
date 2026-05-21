@@ -60,6 +60,7 @@ A curated list of tools, platforms, and resources for indie makers, solo develop
 * [SenSEO](https://screamingfrog.co.uk) – On-page SEO and crawler.
 * [Hypefury](https://hypefury.com) – Twitter growth and scheduling.
 * [Postcards](https://designmodo.com/postcards/) – Email newsletter templates.
+* [MarketiStats](https://marketistats.com) – All-in-one marketing analytics dashboard for solo SaaS founders. Tracks social, SEO, outreach, affiliates, and paid ads in one place.
 
 ## 💸 Payment & Subscriptions
 
