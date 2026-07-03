@@ -57,6 +57,7 @@ A curated list of tools, platforms, and resources for indie makers, solo develop
 ## 📈 Marketing & SEO
 
 * [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) – Free SEO site audit.
+* [GetAppNiche](https://getappniche.com/) – iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 * [SenSEO](https://screamingfrog.co.uk) – On-page SEO and crawler.
 * [Hypefury](https://hypefury.com) – Twitter growth and scheduling.
 * [Postcards](https://designmodo.com/postcards/) – Email newsletter templates.
@@ -98,5 +99,4 @@ A curated list of tools, platforms, and resources for indie makers, solo develop
 ## License
 
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) – Public Domain. Use freely.
-
 
