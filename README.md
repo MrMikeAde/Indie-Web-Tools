@@ -81,6 +81,7 @@ A curated list of tools, platforms, and resources for indie makers, solo develop
 * [Indie Hackers](https://indiehackers.com) – Learn from other indie makers.
 * [Betalist](https://betalist.com) – Get early users for your startup.
 * [Launchpedia](https://launchpedia.co) – Curated launch playbooks and tools.
+* [StackIndex AI](https://stackindexai.com) – Comparison catalog of AI/SaaS tools for solo founders, with hands-on editorial reviews.
 
 ## 👥 Communities
 
