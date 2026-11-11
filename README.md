@@ -59,6 +59,7 @@ A curated list of tools, platforms, and resources for indie makers, solo develop
 * [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) – Free SEO site audit.
 * [SenSEO](https://screamingfrog.co.uk) – On-page SEO and crawler.
 * [Hypefury](https://hypefury.com) – Twitter growth and scheduling.
+* [TKMetrics](https://tkmetrics.com) – Public TikTok profile stats, including engagement on recent videos.
 * [Postcards](https://designmodo.com/postcards/) – Email newsletter templates.
 
 ## 💸 Payment & Subscriptions
